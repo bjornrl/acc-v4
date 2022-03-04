@@ -1,8 +1,8 @@
 {
-  "collectionName": "components_content_challenges",
+  "collectionName": "components_content_steps",
   "info": {
-    "displayName": "Challenges",
-    "icon": "atlas",
+    "displayName": "steps",
+    "icon": "bacon",
     "description": ""
   },
   "options": {},
