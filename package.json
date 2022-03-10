@@ -8,8 +8,7 @@
     "dev": "NODE_ENV=deployed-dev yarn develop",
     "start": "strapi start",
     "build": "strapi build",
-    "strapi": "strapi",
-    "cs": "config-sync"
+    "strapi": "strapi"
   },
   "dependencies": {
     "@strapi/plugin-graphql": "4.0.7",
